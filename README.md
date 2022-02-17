@@ -18,9 +18,15 @@ You can click the Preview link to take a look at your changes.
 <h3> 🤣 Streak Stats :</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shohanbot" alt="shohanbot" /></p>
 
-- Random Auto-Meme🐸
+- Meme🐸
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 - Typing....
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CD6F7&size=30&lines=Welcome+To+Shohan%230001+Profile;Thanks+For+Visiting;Join+My+Discord+Server+Too+Thanks)](https://git.io/typing-svg)
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fwnyfg62gvugz336xpdzcocufu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fwnyfg62gvugz336xpdzcocufu&redirect=true)
